@@ -7,7 +7,6 @@ I am a passionate software developer specializing in .NET and backend systems.
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title=".NET" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET Core" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 
