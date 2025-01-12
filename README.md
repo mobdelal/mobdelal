@@ -14,9 +14,7 @@ I am a passionate software developer specializing in .NET and backend systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tailwindcss.svg" title="Tailwind CSS" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="Microsoft SQL Server" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
