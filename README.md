@@ -6,7 +6,7 @@ I am a passionate software developer specializing in .NET and backend systems.
 
 ### Languages and Frameworks:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="30" height="30" style="border-radius: 50%; margin: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET Core" width="30" height="30" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="30" height="30" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="30" height="30" style="border-radius: 50%; margin: 10px;"/>
