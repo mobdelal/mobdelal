@@ -20,7 +20,7 @@ I am a passionate software developer specializing in .NET and backend systems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
-  <img src="https://static.cdnlogo.com/logos/s/86/swagger.svg" title="Swagger" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swagger.svg" title="Swagger" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title="Trello" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
 </p>
 
