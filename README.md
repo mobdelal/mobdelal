@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, I'm Mohammed Abdelal 👋</h2> <br/>
----
-## I am a passionate software developer specializing in .NET and backend systems. 
+
+I am a passionate software developer specializing in .NET and backend systems. 
 
 <!--
 **mobdelal/mobdelal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
