@@ -8,6 +8,9 @@ I am a passionate software developer specializing in .NET and backend systems.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" title="ASP.NET Core" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+    <img src="https://img.icons8.com/ios/452/model-view-controller.png" title="MVC" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+<img src="https://img.icons8.com/external-flat-juicy-fish/64/000000/external-api-cloud-computing-flat-flat-juicy-fish.png" title="API" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="50" height="50" style="border-radius: 50%; margin: 10px;"/>
